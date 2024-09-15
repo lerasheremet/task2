@@ -1,0 +1,33 @@
+h1{
+    background-color: lightblue;
+    border-style: groove;
+    border-color: darkblue;
+}
+
+h4{
+    color: darkblue;
+}
+
+p{
+    font-size: 15px;
+    color: chocolate;
+}
+
+div{
+    font-size: 25px;
+    color: darkred;
+}
+
+thead{
+    background-color: darkblue;
+    color: white;
+}
+
+tbody{
+    background-color: lightblue;
+}
+
+table{
+    border-style: solid;
+    border-color: darkblue;
+}
